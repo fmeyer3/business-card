@@ -10,5 +10,8 @@
   "dependencies": {
     "vite": "latest"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "engines": {
+  "node": ">=20.19.0"
+}
 }
