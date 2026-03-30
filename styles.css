@@ -20,9 +20,9 @@ body {
     display: flex;
     justify-content: space-around;
     text-align: center;
-    background: #8ecae6;
+    background: chartreuse;
     color: #023047;
-    border-bottom: 10px solid #fb8500;
+    border-bottom: 10px solid orangered;
     border-radius: 10px;
     box-shadow: 5px 10px 10px #D3D3D3;
         
